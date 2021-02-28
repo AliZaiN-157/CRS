@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162637635710",
+    "project_id": "crs-app-5ad8c",
+    "storage_bucket": "crs-app-5ad8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162637635710:android:e572b16624e0fbcd3eb82f",
+        "android_client_info": {
+          "package_name": "com.crs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162637635710-p6a5ohpqk69onafiq9g35iaolvbbljhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtFq4c6cJmNwsK6Kt-gGRkibt5sKSBy4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162637635710-p6a5ohpqk69onafiq9g35iaolvbbljhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
